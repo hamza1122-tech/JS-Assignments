@@ -9,6 +9,8 @@ console.log(typeof isStudent);
 console.log(typeof job);
 console.log(typeof graduate);
 
+console.log("Now conversion of element datatype");
+
 // now conversion
 name = Number(name);
 console.log(name);
